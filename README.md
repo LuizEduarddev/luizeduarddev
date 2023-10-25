@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou desenvolvedor full stack | cursando ciências da computação no terceiro semestre!
+    Sou desenvolvedor full stack | cursando ciências da computação no quarto semestre!
   </p>
   
 </div>
