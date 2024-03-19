@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou desenvolvedor full stack | cursando ciências da computação no quarto semestre!
+Estou atualmente no quinto semestre de computação. Amo tudo que envolve programação. Nos dias atuais estou priorizando meu conhecimento em Java, possuo também amplo conhecimento em REACT + Spring Boot, dê uma olhada em meu perfil, está cheio de projetos bacanas desenvolvidos por mim!
   </p>
   
 </div>
