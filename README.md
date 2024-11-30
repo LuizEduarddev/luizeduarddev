@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hi there, how's going? 
-    <a href="https://www.linkedin.com/in/luiz-eduardo-campos-dias-731235252/">Luiz Eduardo!</a>
+    <a href="https://www.linkedin.com/in/luiz-eduardo-campos-dias-731235252/">I am Luiz Eduardo!</a>
   </h1>
   
   <p align="center">
