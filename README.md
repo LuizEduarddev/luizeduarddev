@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi, tudo bem? Eu sou o 
+    Hi there, how's going? 
     <a href="https://www.linkedin.com/in/luiz-eduardo-campos-dias-731235252/">Luiz Eduardo!</a>
   </h1>
   
   <p align="center">
-Estou atualmente no quinto semestre de computação. Amo tudo que envolve programação. Nos dias atuais estou priorizando meu conhecimento em Java, possuo também amplo conhecimento em REACT + Spring Boot, dê uma olhada em meu perfil, está cheio de projetos bacanas desenvolvidos por mim!
+  Im a sixth semester student of computer science. Im in Rome now, studying at <a href="https://www.google.com.br/maps/place/Roma+Tre+University/@41.8770581,12.4461256,13z/data=!4m10!1m2!2m1!1sUniversit%C3%A0+Roma+TRE!3m6!1s0x13258a815396e0eb:0x4278a4169f7eac72!8m2!3d41.8648137!4d12.4799082!15sChRVbml2ZXJzaXTDoCBSb21hIFRSRSIDiAEBkgEKdW5pdmVyc2l0eeABAA!16zL20vMDZsejRy?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D">Roma3</a>
   </p>
   
 </div>
